@@ -1,4 +1,10 @@
-    #include<stdio.h>
+/*
+Name: Sandra Chepchirchir   
+Reg no:PA106/G/28702/25
+Description: program to display semester units
+*/
+
+#include<stdio.h>
 int main()
 {
 int units;
