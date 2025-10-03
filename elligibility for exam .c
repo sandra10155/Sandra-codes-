@@ -1,3 +1,9 @@
+/*
+Name: Sandra Chepchirchir   
+Reg no:PA106/G/28702/25
+Description: program to display exam elligibility  
+*/
+
 #include<stdio.h>
 int main()
 {
