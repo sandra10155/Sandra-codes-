@@ -1,3 +1,9 @@
+/*
+ Name: Sandra Chepchirchir 
+Reg no :PA106/G/28702/25   
+Description: Program to display surface area and volume of a cylinder 
+*/
+
 #include<stdio.h>
 int main()
 {
