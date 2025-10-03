@@ -1,3 +1,9 @@
+/*
+Name: Sandra Chepchirchir   
+Reg no:PA106/G/28702/25
+Description: program elligibility of a loan
+*/
+
 #include<stdio.h>
 int main()
 {
