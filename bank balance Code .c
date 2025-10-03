@@ -1,3 +1,8 @@
+/*
+Name: Sandra Chepchirchir  
+Reg no:PA106/G/28702/25
+Description: Program to display bank balance 
+*/
 #include<stdio.h>
 int main()
 {
